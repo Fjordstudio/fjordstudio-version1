@@ -1,0 +1,2 @@
+# Classifies `.php` files as PHP:
+*.php linguist-language=PHP
